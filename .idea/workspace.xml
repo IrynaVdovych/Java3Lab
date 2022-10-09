@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83e0f68d-0a26-4a6c-a2dd-db7e85124ed6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/battles/Attack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/battles/BattleMTM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/colors/ConsoleColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/droids/Brave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/droids/Defender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/droids/Droid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/droids/RandomPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/droids/Tricky.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/lab3/Lab3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/random/Rand.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ed6Tb11go8mrIH7nfrlbfPIXLR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/irynavdovych/IdeaProjects/Lab3/src/com/example/lab3&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/example/lab3" />
+      <recent name="$PROJECT_DIR$/src/com/example/battles" />
+      <recent name="$PROJECT_DIR$/src/com/example/droids" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83e0f68d-0a26-4a6c-a2dd-db7e85124ed6" name="Changes" comment="" />
+      <created>1662913122973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662913122973</updated>
+      <workItem from="1662913124123" duration="7781000" />
+      <workItem from="1663326657517" duration="697000" />
+      <workItem from="1664038200706" duration="2050000" />
+      <workItem from="1665075786639" duration="126000" />
+      <workItem from="1665075916992" duration="1499000" />
+      <workItem from="1665077454130" duration="5653000" />
+      <workItem from="1665237598930" duration="10801000" />
+      <workItem from="1665248903114" duration="820000" />
+      <workItem from="1665249728528" duration="1332000" />
+      <workItem from="1665310899125" duration="106000" />
+      <workItem from="1665329615740" duration="1293000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
